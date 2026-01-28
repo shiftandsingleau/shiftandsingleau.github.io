@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Shift & Single AU</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f6f6f6;
+      margin: 0;
+      padding: 20px;
+      text-align: center;
+    }
+    .box {
+      background: #fff;
+      padding: 20px;
+      max-width: 480px;
+      margin: auto;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    h1 { margin-top: 0; }
+    button {
+      background: #000;
+      color: #fff;
+      border: none;
+      padding: 14px;
+      width: 100%;
+      border-radius: 6px;
+      font-size: 16px;
+    }
+    input {
+      width: 100%;
+      padding: 12px;
+      margin: 10px 0;
+    }
+    small { color: #666; }
+  </style>
+</head>
+<body>
+
+<div class="box">
+  <h1>Shift & Single AU</h1>
+  <p><strong>FIFO workers & single parents.</strong><br>
+     Serious dating for people with limited time.</p>
+
+  <p>Pay-to-message dating. No swiping. No time-wasters.</p>
+
+  <form>
+    <input type="email" placeholder="Email for early access" required>
+    <button type="submit">Get Early Access</button>
+  </form>
+
+  <p><small>Australian users only · 18+ · Paid messaging coming soon</small></p>
+</div>
+
+</body>
+</html>
+           
